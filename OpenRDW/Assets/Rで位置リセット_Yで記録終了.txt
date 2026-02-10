@@ -1,0 +1,9 @@
+
+①VR起動してsteamLink起動
+②Steam起動してVRと接続
+③[CameraRig]のGazeDataRecorderを色々いじる（name、E1、E2だけでよい）
+③unity再生する
+②ゴーグルつける
+①Rで位置リセット
+②★★ここから書く
+③Yで記録終了
