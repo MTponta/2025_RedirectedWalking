@@ -1,4 +1,4 @@
-# 令和7年度　令和7年度\_視覚効果による視線誘導がRedirectedWalkingに及ぼす影響の研究
+# 令和7年度　視覚効果による視線誘導がRedirectedWalkingに及ぼす影響の研究
 
 
 
