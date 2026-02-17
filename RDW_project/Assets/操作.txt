@@ -1,0 +1,5 @@
+- 「R」で位置リセット（視覚効果の発生もリセット）
+- Hierarchy→[CameraRig]→Inspector→GazeDataRecorderのE1とE2で、視覚効果を設定
+- 「1」で左回りのRDW＋記録開始
+- 「2」で右回りのRDW＋記録開始
+- 「Y」で記録終了
