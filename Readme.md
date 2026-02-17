@@ -258,6 +258,9 @@ https://www.jstage.jst.go.jp/article/sjpr/29/3/29\_364/\_pdf/-char/ja
 
 \- RDWの基幹プログラムは、「OpenRDW」というオープンソースのプロジェクトから持ってきてる  
 
-\- 今回はO2C方式を採用したが（単純だったため）、OpenRDWには他にも数十種のRDWのプログラムがあるので検討してもいいかも  
+\- 今回はO2C方式を採用したが（単純だったため）、OpenRDWには他にも数十種のRDWのプログラムがあるので検討してもいいかも 
+
+\- [https://journals.physiology.org/doi/full/10.1152/jn.00141.2017](https://journals.physiology.org/doi/full/10.1152/jn.00141.2017)
+視覚シーン中で、突然現れる刺激物（distractor）があれば、人の視線・サッケードはそれに無意識に引きつけられる。という研究。応用に使えると思う。
 
 
