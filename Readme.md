@@ -223,7 +223,7 @@ https://www.jstage.jst.go.jp/article/sjpr/29/3/29\_364/\_pdf/-char/ja
 
 
 
-\- RDWの基幹プログラムは、「OpenRDW」というオープンソースのプロジェクトから持ってきてる  https://github.com/yaoling1997/OpenRDW
+\- RDWの基幹プログラムは、「OpenRDW」というオープンソースのプロジェクトから持ってきてる  [https://github.com/yaoling1997/OpenRDW](https://github.com/omegafantasy/OpenRDW2)
 
 \- 今回はO2C方式を採用したが（単純だったため）、OpenRDWには他にも数十種のRDWのプログラムがあるので検討してもいいかも 
 
