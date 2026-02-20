@@ -60,7 +60,7 @@
 ③VRにSteamLink導入  
 
 
-（※airLinkが使えるならSteamLinkとSteamを使う必要ない  
+（※AirLinkが使えるならSteamLinkとSteamを使う必要ない  
 
 何故かAirLinkが使えなかったのでSteamLink使ってます
 
