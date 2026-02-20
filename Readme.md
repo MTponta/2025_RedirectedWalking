@@ -6,15 +6,15 @@
 
 
 
-・中間発表資料  
 
-・最終発表資料  
-
-・研究室紹介資料  
 
 ・卒論本文  
 
 ・実際に研究で使ったUnityのプロジェクト  
+
+・中間発表資料  
+
+・最終発表資料  
 
 ・研究で取得したデータのexcel  
 
@@ -28,6 +28,110 @@
 
 ## 以下説明
 
+
+---
+
+
+
+## ＜卒論本文＞
+
+
+
+最終発表前に提出したモノです。  
+
+
+
+---
+
+
+
+## ＜実際に研究で使ったUnityのプロジェクト＞
+
+
+
+### 事前セットアップ
+
+
+
+①unityを導入し、unity hubにてバージョン2019.4.8f1をインストール  
+
+②Steamをインストール  
+
+③VRにSteamLink導入  
+
+
+（※airLinkが使えるならSteamLinkとSteamを使う必要ない  
+
+何故かAirLinkが使えなかったのでSteamLink使ってます
+
+おそらく矢吹のPCの問題だと思うので、AirLinkを試すことを推奨）  
+
+
+
+---
+
+
+
+### 実行方法
+
+
+
+①steam起動(起動だけしておけばよい)
+
+②(VR)SteamLink起動しPCと接続  
+
+③unity hub起動  
+
+
+
+④RDW_project>Assets>RDW\_sceneを開く
+
+
+⑤Hierarchy→\[CameraRig]→Inspector→GazeDataRecorderのFileNameを設定(日時は勝手に入るので「Yabuki」みたいな被験者名入れとけばよい)  
+
+
+⑥画面上部の再生(play)ボタンで再生開始  
+
+
+⑦被験者にVR付けさせて、街が見えることを確認させる  
+
+
+⑧↓の操作を用いて、色んな視覚効果での歩行を記録する(論文の通り)  
+
+
+
+
+### 操作
+
+
+\- 「R」キーで位置リセット（視覚効果の発生もリセット）  
+
+\- Hierarchy→\[CameraRig]→Inspector→GazeDataRecorderのE1とE2で、視覚効果を設定  
+
+\- 「1」キーで左回りのRDW＋新規記録開始(現在の記録は終了)  
+
+\- 「2」キーで右回りのRDW＋新規記録開始(現在の記録は終了)  
+
+\- 「Y」キーで記録終了  
+
+
+
+
+### その他の機能
+
+
+
+\- VRを付けずに実行する場合、WASDでのCameraの移動で疑似的に実験できる(動作確認用)。このとき、実行時にCameraが地面に埋まっているので、実行した後にCameraのPostionを少し上げるとよい。  
+
+\- 自作のプログラムはAssets>Sprictに入っている  
+
+\- 自作のマテリアルはAssets>materialに入っている  
+
+\- 自作のマテリアルのシェーダーはAssets>Shadersに入っている  
+
+\- 街はネットで拾ったもの  
+
+\- Hierarchy→\[CameraRig]→Carema→Inspector→O2CのRadiusでRDWの強さ(曲がる半径)を変えられる  
 
 
 ---
@@ -80,134 +184,6 @@
 
 
 
-## ＜研究室紹介資料＞
-
-
-
-・一応  
-
-
-
-先輩は「専攻科生がいないから気楽」と言ってた  
-
-
-
----
-
-
-
-## ＜卒論本文＞
-
-
-
-最終発表前に提出したモノです。  
-
-
-
----
-
-
-
-## ＜実際に研究で使ったUnityのプロジェクト＞
-
-
-
-### 事前セットアップ
-
-
-
-①unityを導入し、unity hubにてバージョン2019.4.8f1をインストール  
-
-②Steamをインストール  
-
-③VRにSteamLink導入  
-
-
-
----
-
-
-
-### 実行方法
-
-
-
-①steam起動  
-
-②(VR)SteamLinkで接続  
-
-③)unity起動  
-
-
-
-④Project>Assets>RDW\_sceneを開く  
-
-
-
-⑤Hierarchy→\[CameraRig]→Inspector→GazeDataRecorderのFileNameを設定(日時は勝手に入るので「Yabuki」みたいな被験者名入れとけばよい)  
-
-
-
-⑥画面上部の再生(play)ボタンで再生開始  
-
-
-
-⑦被験者にVR付けさせて、街が見えることを確認  
-
-
-
-⑧↓の操作を用いて、色んな視覚効果での歩行を記録する  
-
-
-
-
-
-
-### 操作
-
-
-
-\- 「R」で位置リセット（視覚効果の発生もリセット）  
-
-\- Hierarchy→\[CameraRig]→Inspector→GazeDataRecorderのE1とE2で、視覚効果を設定  
-
-\- 「1」で左回りのRDW＋記録開始  
-
-\- 「2」で右回りのRDW＋記録開始  
-
-\- 「Y」で記録終了  
-
-
-
-
-### その他の機能
-
-
-
-\- VRを付けずに実行する場合、WASDでのCameraの移動で疑似的に実験できる(動作確認用)。このとき、実行時にCameraが地面に埋まっているので、実行した後にCameraのPostionを少し上げるとよい。  
-
-\- 自作のプログラムはAssets>sprictに入っている  
-
-\- 自作のマテリアルはAssets>materialに入っている  
-
-\- 自作のマテリアルのシェーダーはAssets>Shadersに入っている  
-
-\- 街はネットで拾ったもの  
-
-\- Hierarchy→\[CameraRig]→Carema→Inspector→O2CのRadiusでRDWの強さを変えられる  
-
-
-
-（※air Linkが使えるならSteamLinkとSteamを使う必要ない  
-
-何故かAirLinkが使えなかったのでSteamLink使ってます）  
-
-
-
----
-
-
-
 ## ＜研究で取得したデータのexcel＞
 
 
@@ -218,19 +194,7 @@
 
 excelで開き、一番左の系列名のセルからフィルターボタンを押すことでそれぞれの歩行データ閲覧できます  
 
-
-
----
-
-
-
-## ＜使用した図のパワポ＞
-
-
-
-\- 一応  
-
-
+ 
 
 ---
 
