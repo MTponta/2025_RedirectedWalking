@@ -84,19 +84,22 @@
 
 
 
-④RDW_project>Assets>RDW\_sceneを開く
+④unity hubの「開く」でRDW_projectを開く
 
 
-⑤Hierarchy→\[CameraRig]→Inspector→GazeDataRecorderのFileNameを設定(日時は勝手に入るので「Yabuki」みたいな被験者名入れとけばよい)  
+⑤Assets>RDW\_sceneを開く
 
 
-⑥画面上部の再生(play)ボタンで再生開始  
+⑥Hierarchy→\[CameraRig]→Inspector→GazeDataRecorderのFileNameを設定(日時は勝手に入るので「Yabuki」みたいな被験者名入れとけばよい)  
 
 
-⑦被験者にVR付けさせて、街が見えることを確認させる  
+⑦画面上部の再生(play)ボタンで再生開始  
 
 
-⑧↓の操作を用いて、色んな視覚効果での歩行を記録する(論文の通り)  
+⑧被験者にVR付けさせて、街が見えることを確認させる  
+
+
+⑨↓の操作を用いて、色んな視覚効果での歩行を記録する(論文の通り)  
 
 
 
